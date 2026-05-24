@@ -263,7 +263,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## 📬 Contact
 
-Built by Vedant Kadam | [LinkedIn](https://linkedin.com/in/yourprofile) | 
+Built by Vedant Kadam | [LinkedIn](https://www.linkedin.com/in/vedant-kadam-888702203/)| 
 
 ---
 
