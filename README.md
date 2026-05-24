@@ -18,6 +18,11 @@ Freelancers across the EU face:
 
 An AI-powered platform that generates:
 1. **Human-readable contracts** — Plain English, EU-compliant terms
+
+<img width="1470" height="956" alt="3" src="https://github.com/user-attachments/assets/fa18b21d-fe06-4cdc-ac8c-11a756463769" />
+<img width="1305" height="827" alt="First" src="https://github.com/user-attachments/assets/3f76b92e-c716-4442-a3ce-1e297ab51976" />
+<img width="1470" height="956" alt="2" src="https://github.com/user-attachments/assets/45d632c6-0669-4549-a5e3-1b712c5d2094" />
+
 2. **Smart contract code** — Solidity escrow system with milestone payments
 3. **Compliance validation** — Automatic checks against EU regulations
 
